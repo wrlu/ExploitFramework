@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
  * Loads DEX files. This class is meant for internal use and should not be used
  * by applications.
  *
- * @deprecated This class should not be used directly by applications. It will hurt
+ * This class should not be used directly by applications. It will hurt
  *     performance in most cases and will lead to incorrect execution of bytecode in
  *     the worst case. Applications should use one of the standard classloaders such
  *     as {@link dalvik.system.PathClassLoader} instead. <b>This API will be removed
@@ -19,7 +19,7 @@ public class DexFile {
     /**
      * Opens a DEX file from a given filename.
      *
-     * @deprecated Applications should use one of the standard classloaders such
+     * Applications should use one of the standard classloaders such
      *     as {@link dalvik.system.PathClassLoader} instead. <b>This API will be removed
      *     in a future Android release</b>.
      */
