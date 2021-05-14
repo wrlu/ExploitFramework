@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.reflector.dalvik.system;
+package com.wrlus.hiddenapireflector.dalvik.system;
 
 import android.annotation.SuppressLint;
 

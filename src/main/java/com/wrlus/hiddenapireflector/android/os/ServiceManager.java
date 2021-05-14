@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.reflector.android.os;
+package com.wrlus.hiddenapireflector.android.os;
 
 import android.os.IBinder;
 
